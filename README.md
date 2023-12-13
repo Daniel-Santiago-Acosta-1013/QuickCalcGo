@@ -60,7 +60,7 @@ Una vez instalado Go, puedes clonar y ejecutar QuickCalcGo siguiendo estos pasos
 1.  **Clona el Repositorio** (ajusta el comando si el proyecto está en un repositorio en línea):
 
     ```bash
-    git clone https://ruta/a/QuickCalcGo.git
+    git clone git@github.com:Daniel-Santiago-Acosta-1013/QuickCalcGo.git
     cd QuickCalcGo
     ```
 
