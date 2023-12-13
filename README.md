@@ -17,7 +17,7 @@ Para utilizar QuickCalcGo, necesitas tener Go instalado en tu sistema. Aquí te 
     Visita [la página oficial de Go](https://golang.org/dl/) para encontrar la versión más reciente y reemplaza el URL en el siguiente comando:
 
     ```bash
-    wget https://dl.google.com/go/go1.x.x.linux-amd64.tar.gz
+    wget https://golang.org/dl/go1.17.2.linux-amd64.tar.gz
     ```
 
     Asegúrate de reemplazar `1.x.x` con la versión actual de Go.
@@ -25,7 +25,7 @@ Para utilizar QuickCalcGo, necesitas tener Go instalado en tu sistema. Aquí te 
 3.  **Extrae el archivo tar**:
 
     ```bash
-    sudo tar -C /usr/local -xzf go1.x.x.linux-amd64.tar.gz
+    sudo tar -C /usr/local -xzf go1.17.2.linux-amd64.tar.gz
     ```
 
     Recuerda ajustar la versión de Go en el nombre del archivo.
